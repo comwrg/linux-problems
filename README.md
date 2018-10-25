@@ -4,3 +4,6 @@ https://unix.stackexchange.com/questions/269159/problem-of-cant-set-locale-make-
 
 ## change init level
 https://itbilu.com/linux/management/4JEzjDV8G.html
+
+## set service start level
+https://askubuntu.com/questions/3913/start-ssh-server-on-boot
