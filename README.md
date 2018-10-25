@@ -7,3 +7,6 @@ https://itbilu.com/linux/management/4JEzjDV8G.html
 
 ## set service start level
 https://askubuntu.com/questions/3913/start-ssh-server-on-boot
+
+## change timezone
+https://www.sysgeek.cn/change-timezone-linux/
