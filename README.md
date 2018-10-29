@@ -12,4 +12,4 @@ https://askubuntu.com/questions/3913/start-ssh-server-on-boot
 https://www.sysgeek.cn/change-timezone-linux/
 
 ## shadowsocks start on boot
-https://blog.xavierskip.com/2015-02-02-shadowsocks-init/
+自带 在目录/lib/systemd/system
