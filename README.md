@@ -13,3 +13,9 @@ https://www.sysgeek.cn/change-timezone-linux/
 
 ## shadowsocks start on boot
 自带 在目录/lib/systemd/system
+
+## gpg public key delete by mistake
+error message
+```The following signatures couldn't be verified because the public key is not available: NO_PUBKEY 7638D0442B90D010 NO_PUBKEY 04EE7237B7D453EC NO_PUBKEY EF0F382A1A7B6500```
+
+apt-key adv --keyserver keyserver.ubuntu.com --recv-keys EF0F382A1A7B6500
